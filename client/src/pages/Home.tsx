@@ -643,7 +643,6 @@ function ProductShowcase() {
 export default function Home() {
   return (
     <div style={{ background: "var(--lilaas-navy)", minHeight: "100vh" }}>
-      <AnnouncementBanner />
       <Navbar />
       <HeroSection />
       <MarqueeStrip />
